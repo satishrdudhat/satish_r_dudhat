@@ -1,6 +1,12 @@
 # satish_r_dudhat
-<h1 align="center">Hi 👋, I'm SatishDudhat</h1>
-<h3 align="center">Hey there 👋 I’m Satish, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</h3>
+
+<p dir="auto"><a href="https://braydoncoyer.dev" rel="nofollow"><img src="/satishrdudhat/satish_r_dudhat/blob/main/Satish.png" alt="Satish Dudhat" style="max-width: 100%;"></a></p>
+
+<h1 align="center">Hi 👋, I'm Satish Dudhat</h1>
+<h3 align="center">Hey there 👋 I’m Satish, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+
+I'm a graduate in Computer Science 🎓 from Veer Narmad South Gujarat University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻💻. I'm currently into Web Development 🕸️ and working on my Healthinfi Web Development and Digital Marketing🤓
+</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=satishrdudhat&label=Profile%20views&color=0e75b6&style=flat" alt="satishrdudhat" /></p>
 
