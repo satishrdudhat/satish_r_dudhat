@@ -1,6 +1,6 @@
 # satish_r_dudhat
 
-<p dir="auto"><a href="https://braydoncoyer.dev" rel="nofollow"><img src="/satishrdudhat/satish_r_dudhat/blob/main/Satish.png" alt="Satish Dudhat" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://braydoncoyer.dev" rel="nofollow"><img src="[/satishrdudhat/satish_r_dudhat/blob/main/Satish.png](https://github.com/satishrdudhat/satish_r_dudhat/blob/main/Satish.png)" alt="Satish Dudhat" style="max-width: 100%;"></a></p>
 
 <h1 align="center">Hi 👋, I'm Satish Dudhat</h1>
 <h3 align="center">Hey there 👋 I’m Satish, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
