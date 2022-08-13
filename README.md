@@ -2,8 +2,8 @@
 
 <a href="https://github.com/satishrdudhat" rel="nofollow"><img src="https://github.com/satishrdudhat/satish_r_dudhat/blob/main/Satish.png" alt="" style="max-width: 100%;"></a>
 
-<h1 align="center">Hi World 👋, I'm Satish Dudhat</h1>
-<h3 align="center">Hey there 👋 I’m Satish, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</br>
+<h1 align="center">Hello World 👋</h1>
+<h3 align="center">Hey there 👋 I’m Satish, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.<br>
 
 I'm a graduate in Computer Science 🎓 from Veer Narmad South Gujarat University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻💻. I'm currently into Web Development 🕸️ and working on my Healthinfi Web Development and Digital Marketing🤓
 </h3>
