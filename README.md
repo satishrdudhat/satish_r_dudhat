@@ -14,24 +14,55 @@ I am passionate about leveraging my technical skills and diverse experience to d
 
 Web Development:
 
-Frontend: React.js, JavaScript (ES6+), Bootstrap, CSS3, HTML5, PHP.
-CMS: WordPress Customization & Development
+Frontend: 
+
+• React.js, 
+• JavaScript (ES6+), 
+• Bootstrap, 
+• CSS3, 
+• HTML5, 
+• PHP.
+
+CMS: 
+
+• WordPress Customization & Development
 
 Data Analytics & Visualization:
 
-Tools: SQL, Excel, Power BI, Tableau.
-Programming Languages: Python, R.
-Techniques: Statistical Analysis, Data Visualization, Critical Thinking, and Problem Solving. 
+Languages
+
+•	Python
+•	SQL
+•	R
+
+Libraries
+
+•	Pandas, NumPy
+•	Matplotlib, Seaborn, Plotly
+•	Scikit-learn
+
+Tools
+
+•	Tableau
+•	Power BI
+•	Jupyter Notebook
+
+Techniques:
+
+• Statistical Analysis 
+• Data Visualization
+• Critical Thinking 
+• Problem Solving. 
 
 Digital Marketing:
 
-SEO (Search Engine Optimization)
-PPC (Pay-per-click)
-SEM (Search Engine Marketing)
-ASO (App Store Optimization)
-Video Editing & Marketing
-Email Marketing
-Social Media Campaigns
+• SEO (Search Engine Optimization)
+• PPC (Pay-per-click)
+• SEM (Search Engine Marketing)
+• ASO (App Store Optimization)
+• Video Editing & Marketing
+• Email Marketing
+• Social Media Campaigns
 
 🎯 Current Goals
 Transition into roles such as Data Analyst, Business Analyst, or IT Project Manager.
